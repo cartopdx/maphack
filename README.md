@@ -1,0 +1,4 @@
+maphack
+=======
+
+map-based work
